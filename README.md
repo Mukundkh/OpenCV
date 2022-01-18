@@ -18,5 +18,5 @@ The repository contains functionalities and operations used in OpenCV
 
 ## Installation
 OpenCV: pip install opencv-contrib-python
-
+Numpy:  pip install numpy
 Caer: pip install caer
