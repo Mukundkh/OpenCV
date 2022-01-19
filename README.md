@@ -13,6 +13,11 @@ The repository contains functionalities and operations used in OpenCV
 - Converting Images into Grey Scale Images
 - Applied Various Filters
 - Created Custom Blank Images
+- Contour Detection
+- Color spaces
+- Blurring methods
+- Bitwise Operations
+- Masking
 
 
 
