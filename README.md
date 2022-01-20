@@ -18,6 +18,10 @@ The repository contains functionalities and operations used in OpenCV
 - Blurring methods
 - Bitwise Operations
 - Masking
+- Histogram Computation
+- Binarizing Images
+- Edge Detection
+
 
 
 
