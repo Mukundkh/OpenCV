@@ -21,6 +21,9 @@ The repository contains functionalities and operations used in OpenCV
 - Histogram Computation
 - Binarizing Images
 - Edge Detection
+- Face Detection with Haar Cascades
+- Face Recognition
+
 
 
 
